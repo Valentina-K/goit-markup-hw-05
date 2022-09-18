@@ -112,8 +112,8 @@ body{
 
 /*header*/
 .header-page{
-    padding-top: 24px;
-    padding-bottom: 25px;
+    /*padding-top: 24px;
+    padding-bottom: 25px;*/
     border-bottom: 1px solid var(--border-color); 
 }
 .header-address{
