@@ -141,7 +141,7 @@ body{
 }
 .nav{
     color:var(--second-text-color);
-    padding-bottom: 32px;
+    padding: 32px 0;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .nav:hover,.nav:focus{
@@ -163,6 +163,7 @@ body{
 }
 
 .address{
+    padding: 32px 0;
     color:var(--main-text-color);
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
